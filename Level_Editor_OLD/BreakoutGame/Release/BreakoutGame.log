@@ -1,0 +1,4 @@
+﻿  BreakoutGame.cpp
+c1xx : fatal error C1083: Cannot open source file: 'BreakoutGame.cpp': No such file or directory
+  Main.cpp
+E:\Files\01__Code_Lounge\CPP_Level_Editor_20T1\Level_Editor\BreakoutGame\Main.cpp(148,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?

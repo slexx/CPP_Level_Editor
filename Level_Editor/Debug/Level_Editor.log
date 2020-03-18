@@ -1,0 +1,39 @@
+﻿  Main.cpp
+E:\Files\01__Code_Lounge\CPP_Level_Editor\Level_Editor\Level_Editor.h(69,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Files\01__Code_Lounge\CPP_Level_Editor\Level_Editor\Level_Editor.h(69,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Files\01__Code_Lounge\CPP_Level_Editor\Level_Editor\Level_Editor.h(145,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Files\01__Code_Lounge\CPP_Level_Editor\Level_Editor\Level_Editor.h(145,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Files\01__Code_Lounge\CPP_Level_Editor\Level_Editor\Level_Editor.h(456,24): warning C4018: '<': signed/unsigned mismatch
+E:\Files\01__Code_Lounge\CPP_Level_Editor\Level_Editor\Level_Editor.h(489,21): warning C4018: '<': signed/unsigned mismatch
+E:\Files\01__Code_Lounge\CPP_Level_Editor\Level_Editor\Level_Editor.h(505,21): warning C4018: '<': signed/unsigned mismatch
+E:\Files\01__Code_Lounge\CPP_Level_Editor\Level_Editor\Level_Editor.h(521,21): warning C4018: '<': signed/unsigned mismatch
+E:\Files\01__Code_Lounge\CPP_Level_Editor\Level_Editor\Level_Editor.h(538,21): warning C4018: '<': signed/unsigned mismatch
+E:\Files\01__Code_Lounge\CPP_Level_Editor\Level_Editor\Menu.h(12,27): error C3646: 'MainMenuWindow': unknown override specifier
+E:\Files\01__Code_Lounge\CPP_Level_Editor\Level_Editor\Menu.h(12,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Files\01__Code_Lounge\CPP_Level_Editor\Level_Editor\Main.cpp(50,2): error C2065: 'MainMenuWindow': undeclared identifier
+E:\Files\01__Code_Lounge\CPP_Level_Editor\Level_Editor\Main.cpp(50,45): error C2065: 'MainMenuWindow': undeclared identifier
+E:\Files\01__Code_Lounge\CPP_Level_Editor\Level_Editor\Main.cpp(50,73): error C2065: 'MainMenuWindow': undeclared identifier
+E:\Files\01__Code_Lounge\CPP_Level_Editor\Level_Editor\Main.cpp(57,9): error C2065: 'MainMenuWindow': undeclared identifier
+E:\Files\01__Code_Lounge\CPP_Level_Editor\Level_Editor\Main.cpp(60,10): error C2065: 'MainMenuWindow': undeclared identifier
+E:\Files\01__Code_Lounge\CPP_Level_Editor\Level_Editor\Main.cpp(64,5): error C2065: 'MainMenuWindow': undeclared identifier
+E:\Files\01__Code_Lounge\CPP_Level_Editor\Level_Editor\Main.cpp(68,3): error C2065: 'MainMenuWindow': undeclared identifier
+E:\Files\01__Code_Lounge\CPP_Level_Editor\Level_Editor\Main.cpp(69,3): error C2065: 'MainMenuWindow': undeclared identifier
+E:\Files\01__Code_Lounge\CPP_Level_Editor\Level_Editor\Main.cpp(69,30): error C2065: 'levelEditorButton': undeclared identifier
+E:\Files\01__Code_Lounge\CPP_Level_Editor\Level_Editor\Main.cpp(70,3): error C2065: 'MainMenuWindow': undeclared identifier
+E:\Files\01__Code_Lounge\CPP_Level_Editor\Level_Editor\Main.cpp(70,30): error C2065: 'gameButton': undeclared identifier
+E:\Files\01__Code_Lounge\CPP_Level_Editor\Level_Editor\Main.cpp(71,3): error C2065: 'MainMenuWindow': undeclared identifier
+E:\Files\01__Code_Lounge\CPP_Level_Editor\Level_Editor\Main.cpp(86,65): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Files\01__Code_Lounge\CPP_Level_Editor\Level_Editor\Main.cpp(88,60): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Files\01__Code_Lounge\CPP_Level_Editor\Level_Editor\Main.cpp(88,47): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
